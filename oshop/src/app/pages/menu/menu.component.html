@@ -1,0 +1,15 @@
+<div class="container mt-5 mb-5">
+
+    <div class="row">
+        <div class="col-lg-4" *ngFor="let dv of devData">
+            <div class="devBox">
+                <h1>{{dv.devName}}</h1>
+                <p>{{dv.devDetils}}</p>
+                <p>{{dv.devPrice | currency:"Ksh "}}</p>
+                <br>
+                <a class="buy">Order Now &nbsp;<i class="bi bi-bag"></i></a>
+            </div>
+        </div>
+    </div>
+
+</div>

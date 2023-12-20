@@ -1,0 +1,29 @@
+.footer{
+    overflow: hidden;
+    top: 100%;
+    position: sticky;
+    background-color: #000000;
+    padding: 20px 40px;
+    justify-content: space-evenly;
+    margin-top: 30px;
+}
+
+h1{
+    color: #fff;
+    font-size: 20px;
+}
+
+a{
+    color: #fff;
+    text-decoration: none;
+    padding: 0 5px;
+    font-size: 16px;
+}
+
+a:hover{
+    color: green;
+}
+
+i{
+    padding: 0px 10px;
+}

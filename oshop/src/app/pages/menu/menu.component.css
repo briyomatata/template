@@ -1,0 +1,33 @@
+.devBox{
+    padding : 10px 5px;
+}
+
+.devBox h1{
+    font-size: 16px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.highlight{
+    color: red;
+}
+
+.viewmorebtn{
+    text-decoration: none;
+    background-color: #000;
+    color: #fff;
+    padding: 10px 10px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+
+.buy{
+    color: #fff;
+    background-color: #000;
+    padding: 10px 10px;
+    text-decoration: none;
+    font-size: 18px;
+    border-radius: 5px;
+    cursor: pointer;
+}
